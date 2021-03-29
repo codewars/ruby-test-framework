@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'codewars_test'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = '2020-06-17'
   s.summary     = "Codewars test framework for Ruby"
   s.description = s.summary
